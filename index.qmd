@@ -12,6 +12,8 @@ Hi, I’m Rachel Wilkerson. I’m a statistician, a writer, community advocate, 
 
 My favorite way to make new math is by listening to people describe the a problem and the root causes. One of my favorite models, staged trees, describes unfolding stories mathematically.
 
+pending
+
 Current data system are artifacts of systems that aren’t conducive to human thriving. 
 
 Believe that designing better data system is intrinsic to the future we want. 
