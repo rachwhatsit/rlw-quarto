@@ -1,0 +1,64 @@
+---
+title: "Rachel L. Wilkerson, PhD"
+---
+
+👋
+
+Hi, I’m Rachel Wilkerson. I’m a statistician, a writer, community advocate, and West Texan. 
+
+🌀
+
+**What are you about?**
+
+My favorite way to make new math is by listening to people describe the a problem and the root causes. One of my favorite models, staged trees, describes unfolding stories mathematically.
+
+Current data system are artifacts of systems that aren’t conducive to human thriving. 
+
+Believe that designing better data system is intrinsic to the future we want. 
+
+That there can be a turning towards grounded data systems
+
+Asking hard questions about who owns the data and why, and envisioning a system that returns sovereignty to the people who collected it. 
+
+Counterfactual fairness implemented into our algorithms preventatively. 
+
+Data science can be grounded, rooted, embodied.
+
+🧩
+
+**Who else do you work with?**
+
+I volunteered with the Data Kind scoping team and participated in Data Dives. I assessed data for the Birchall Trust through the RSS's Statisticians for Society program (Strong recommend, great data feedback). I've developed and delivered trainings on causal inference for Data Science for Social Good. More recently, I ran a local training for non-profits on how to level-up in terms of data maturity.
+
+I find conversations about future design and scenarios thinking incredibly exciting.
+
+📦
+
+**Do you write software?**
+
+I've authored a package on Bayesian network diagnostics. I'm currently working on a software package that scales qualitative coding using a tree-based approach, and another that preventatively checks fairness of AI systems.
+
+🌌
+
+**What’s the coolest dataset you’ve ever worked with?**
+
+I spent the best summer of my life working at the McDonald Observatory with some globular cluster spectroscopy data. While living in the Davis Mountains, I learned to love vim (the best text editor), Firefly, and the dark swaths in the Milky Way.
+
+✍️
+
+**What else do you write about?**
+
+Where the data ends the art picks up\
+Dear data and Stefanie posavec\
+Women in STEM\
+Science in popular culture, counterfactuals in Shakespeare. I had a brief stint writing review for Folk Radio UK, the highlight of which was interviewing I'm With Her.
+
+ 
+
+🏊‍♀️
+
+**What else?**
+
+I’m an open water swimmer and an avid tea drinker.
+
+☕️
