@@ -10,7 +10,21 @@ Hi, I’m Rachel Wilkerson. I’m a statistician, a writer, community advocate, 
 
 **What are you about?**
 
-My favorite way to make new math is by listening to people describe the a problem and the root causes. One of my favorite models, staged trees, describes unfolding stories mathematically.
+My favorite way to make new math is by listening to people describe the a problem and the root causes. One of my favorite models, staged trees, describes unfolding stories mathematically. Storytelling and deep listening produce models grounded in the realities people face.
+
+I love patterns. My research in physics started from watching turbulent swirls of tea in a cup of milk. I studied Complexity Science entranced by the emergent behavior of syncing fireflies and and flocking starlings. Doing a deep dive into the mathematics of these systems honed my ability to hear math in the people's stories
+
+So what does that actually look like?
+
+Expert elicitation tranforms human intuition into probabilistic models. This is especially useful when we want an aswer to a question that doesn't have any data (Ex: How much will sea levels rise in the Hebrides? What are the chances pdfs corrupt in the National Archives?) We can also use it to map out a problem and create bespoke mathematical structures.
+
+Sometimes careful listening means paying attention to what I think of as 'little data.'
+
+So many people I've worked with, both across town and
+
+The people I've worked alongside have pu
+
+I work to design data systems and models rooted in the realities of what humans need to thrive.
 
 pending
 
@@ -21,10 +35,6 @@ Believe that designing better data system is intrinsic to the future we want. 
 That there can be a turning towards grounded data systems
 
 Asking hard questions about who owns the data and why, and envisioning a system that returns sovereignty to the people who collected it. 
-
-Counterfactual fairness implemented into our algorithms preventatively. 
-
-Data science can be grounded, rooted, embodied.
 
 🧩
 
