@@ -12,13 +12,15 @@ Hi, I’m Rachel Wilkerson. I’m a statistician, a writer, community advocate, 
 
 My favorite way to make new math is by listening to people describe the a problem and the root causes. One of my favorite models, staged trees, describes unfolding stories mathematically. Storytelling and deep listening produce models grounded in the realities people face.
 
-I love patterns. My research in physics started from watching turbulent swirls of tea in a cup of milk. I studied Complexity Science entranced by the emergent behavior of syncing fireflies and and flocking starlings. Doing a deep dive into the mathematics of these systems honed my ability to hear math in the people's stories
+I love patterns. My entry point into physics reserach started from watching turbulent swirls of tea in a cup of milk. I studied Complexity Science entranced by the emergent behavior of syncing fireflies and flocking starlings. Doing a deep dive into the mathematics of these systems focused my ability to see math in the people's stories.
 
-So what does that actually look like?
+**So what does that actually look like?**
 
-Expert elicitation tranforms human intuition into probabilistic models. This is especially useful when we want an aswer to a question that doesn't have any data (Ex: How much will sea levels rise in the Hebrides? What are the chances pdfs corrupt in the National Archives?) We can also use it to map out a problem and create bespoke mathematical structures.
+Expert elicitation tranforms human intuition into probabilistic models. This is especially useful when we want an answer to a question that doesn't have any data (Ex: How much will sea levels rise in the Hebrides? What are the chances pdfs corrupt in the National Archives?) We can also use it to map out a problem and create bespoke mathematical structures: basically translating a white board of arrows and post-it notes into a full probabilistic model.
 
-Sometimes careful listening means paying attention to what I think of as 'little data.'
+Sometimes careful listening means paying attention to little data. I've worked as a data scientist in the civic sector for ten years. I've been lucky to work with people who have a good handle
+
+, and often the work has required thinking about the data th the most satisfying projects I've worked on creates d so often the questions non-profits have needs a careful design of their in a flashy mode
 
 So many people I've worked with, both across town and
 
@@ -54,7 +56,7 @@ I've authored a package on Bayesian network diagnostics. I'm currently working o
 
 **What’s the coolest dataset you’ve ever worked with?**
 
-I spent the best summer of my life working at the McDonald Observatory with some globular cluster spectroscopy data. While living in the Davis Mountains, I learned to love vim (the best text editor), Firefly, and the dark swaths in the Milky Way.
+I spent the best summer of my life working at the McDonald Observatory with some globular cluster spectroscopy data. While living in the Davis Mountains, I learned to love vim (the best text editor), Firefly, and the dark bands in the Milky Way.
 
 ✍️
 
@@ -64,8 +66,6 @@ Where the data ends the art picks up\
 Dear data and Stefanie posavec\
 Women in STEM\
 Science in popular culture, counterfactuals in Shakespeare. I had a brief stint writing review for Folk Radio UK, the highlight of which was interviewing I'm With Her.
-
- 
 
 🏊‍♀️
 
