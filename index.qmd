@@ -12,60 +12,45 @@ Hi, I’m Rachel Wilkerson. I’m a statistician, a writer, community advocate, 
 
 My favorite way to make new math is by listening to people describe the a problem and the root causes. One of my favorite models, staged trees, describes unfolding stories mathematically. Storytelling and deep listening produce models grounded in the realities people face.
 
-I love patterns. My entry point into physics reserach started from watching turbulent swirls of tea in a cup of milk. I studied Complexity Science entranced by the emergent behavior of syncing fireflies and flocking starlings. Doing a deep dive into the mathematics of these systems focused my ability to see math in the people's stories.
-
-**So what does that actually look like?**
-
-Expert elicitation tranforms human intuition into probabilistic models. This is especially useful when we want an answer to a question that doesn't have any data (Ex: How much will sea levels rise in the Hebrides? What are the chances pdfs corrupt in the National Archives?) We can also use it to map out a problem and create bespoke mathematical structures: basically translating a white board of arrows and post-it notes into a full probabilistic model.
-
-Sometimes careful listening means paying attention to little data. I've worked as a data scientist in the civic sector for ten years. I've been lucky to work with people who have a good handle
-
-, and often the work has required thinking about the data th the most satisfying projects I've worked on creates d so often the questions non-profits have needs a careful design of their in a flashy mode
-
-So many people I've worked with, both across town and
-
-The people I've worked alongside have pu
-
-I work to design data systems and models rooted in the realities of what humans need to thrive.
-
-pending
-
-Current data system are artifacts of systems that aren’t conducive to human thriving. 
-
-Believe that designing better data system is intrinsic to the future we want. 
-
-That there can be a turning towards grounded data systems
-
-Asking hard questions about who owns the data and why, and envisioning a system that returns sovereignty to the people who collected it. 
+I love patterns. My entry point into physics research started from watching turbulent swirls of tea in a cup of milk. I studied [Complexity Science](https://warwick.ac.uk/study/postgraduate/courses/mathematicsofsystems/2023/) entranced by the emergent behavior of syncing fireflies and flocking starlings. Doing a deep dive into the mathematics of these systems focused my ability to see math in the people's stories.
 
 🧩
 
+**So what does that actually look like?**
+
+Expert elicitation transforms human intuition into probabilistic models. This is especially useful when we want an answer to a question that doesn't have any data (Ex: How much will sea levels rise in the Hebrides? What are the chances pdfs corrupt in the National Archives?) We can also use it to map out a problem and create bespoke mathematical structures: basically translating a white board of arrows and post-it notes into a full probabilistic model.
+
+Sometimes careful listening means paying attention to little data. I've worked as a data scientist in the civic sector for ten years. Some of the projects I've most enjoyed have dealt with comparativly small data sets: a carefully constructed survey of local radio listeners, pre and post survey data from a local crisis center.
+
+I want to know what happens when we return the decision making process about the data to the source? I believe that designing human-centric data system is essential to future conducive to human thriving. I believe there can be a turning towards grounded data systems.
+
+ 
+
+👩‍💻
+
 **Who else do you work with?**
 
-I volunteered with the Data Kind scoping team and participated in Data Dives. I assessed data for the Birchall Trust through the RSS's Statisticians for Society program (Strong recommend, great data feedback). I've developed and delivered trainings on causal inference for Data Science for Social Good. More recently, I ran a local training for non-profits on how to level-up in terms of data maturity.
+I volunteered with the Data Kind scoping team and participated in [Data Dives](https://www.datakind.org/join-us/volunteer/). I assessed data for a local crisis center through the RSS's [Statisticians for Society](https://rss.org.uk/membership/volunteering-and-promoting/statisticians-for-society-initiative/) program (Strong recommend). I've developed and delivered trainings on causal inference for [Data Science for Social Good](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/). I frequent the [R-Ladies](https://rladies.org/) slack channel. More recently, I ran a local training for non-profits on how to level-up in terms of data maturity.
 
-I find conversations about future design and scenarios thinking incredibly exciting.
+Recently, I joined the Data Science faculty at Baylor University as a Lecturer. I'm currently teaching intro courses to R and python.
 
 📦
 
 **Do you write software?**
 
-I've authored a package on Bayesian network diagnostics. I'm currently working on a software package that scales qualitative coding using a tree-based approach, and another that preventatively checks fairness of AI systems.
+Together with my coauthors, I've authored a package on [Bayesian network diagnostics](https://cran.r-project.org/web/packages/bnmonitor/index.html). I'm (slowly but surely) working on a software package that scales qualitative coding using a tree-based approach.
 
 🌌
 
 **What’s the coolest dataset you’ve ever worked with?**
 
-I spent the best summer of my life working at the McDonald Observatory with some globular cluster spectroscopy data. While living in the Davis Mountains, I learned to love vim (the best text editor), Firefly, and the dark bands in the Milky Way.
+I spent the best summer of my life working at the [McDonald Observatory](https://mcdonaldobservatory.org/) with some globular cluster spectroscopy data. While living in the Davis Mountains, I learned to love vim (the best text editor), Firefly, and the dark bands in the Milky Way.
 
 ✍️
 
 **What else do you write about?**
 
-Where the data ends the art picks up\
-Dear data and Stefanie posavec\
-Women in STEM\
-Science in popular culture, counterfactuals in Shakespeare. I had a brief stint writing review for Folk Radio UK, the highlight of which was interviewing I'm With Her.
+I love exploring topics at the intersection of data and art. For the Curator Magazine, I wrote about Stefanie Posavec's [Dear Data project](https://curator-magazine.ghost.io/dear-data-the-surprising-artistry-of-personal-data/), a [counterfactual twist](https://curator-magazine.ghost.io/auto-draft-2/) in *Taming of the Shrew*, and [the scientific method](https://curator-magazine.ghost.io/the-scientific-method-at-the-metroplex/) in *The Martian*. I had a brief stint writing reviews for Folk Radio UK, the highlight of which was interviewing *I'm with Her.* My work has also appeared in Verily Magazine and Comment Magazine.
 
 🏊‍♀️
 
@@ -74,3 +59,7 @@ Science in popular culture, counterfactuals in Shakespeare. I had a brief stint 
 I’m an open water swimmer and an avid tea drinker.
 
 ☕️
+
+**Chat?**
+
+Thank you for reading! If you're an undergraduate who would like to discuss undergraduate research opportunites, please email me at my [Baylor email](mailto:rachel_wilkerson@baylor.edu) or drop by my office hours. If you're a business or non-profit in need of bespoke data analysis, here's my [LLC website](https://serene-lumiere-61be2d.netlify.app/) and [contact email](mailto:rachel@tesserwell.co). If you would like to collaborate on a project at the intersection of art/written word/data/uncertainty, do feel free to [reach out](mailto:rachelw52@gmail.com).
